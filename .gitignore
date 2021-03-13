@@ -3,6 +3,8 @@ __pycache__/
 *.py[cod]
 *$py.class
 
+.DS_Store
+
 Untitled.ipynb
 Untitled1.ipynb
 Untitled2.ipynb
